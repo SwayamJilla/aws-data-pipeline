@@ -27,7 +27,7 @@ def push_to_rds(data, db_params):
     return True
 
 def push_to_glue(data, glue_params):
-    # Placeholder function for pushing data to AWS Glue
+   
     print("Data pushed to Glue database")
     return True
 
